@@ -1,7 +1,7 @@
 # Info on Shiptypes
 
 ## Battleship (BB)
-A ship capable of dealing a much damage as possible, despite being slow, it can sustain much damage.
+A ship capable of dealing as much damage as possible, despite being slow, it can sustain much damage.
 
 ## Battlecruiser (BC)
 Too large to be a Large Cruiser, but too small to be a full size Battleship.
