@@ -24,7 +24,7 @@ I think most of you know what an Aircraft Carrier is, but for all of you who don
 ## Attack Aircraft Carrier (CVA)
 Used for charging through the front lines.
 
-## Nuclear-powered Attack Aircraft Carrier
+## Nuclear-powered Attack Aircraft Carrier (CVAN)
 Same as the CVA but has an unlimited range.
 
 ## Large Aircraft Carrier (CVB)
