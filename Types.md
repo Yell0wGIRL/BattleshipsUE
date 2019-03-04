@@ -44,3 +44,6 @@ A Carrier designed to fight against Submarines.
 
 ## Destroyer (DD)
 A ship equipped with torpedoes, it also is quite fast, but very light armored also having up to 4 single turrets.
+
+## Submarine (SS)
+Submersible ship equipped with topedoes.
