@@ -9,6 +9,9 @@ Too large to be a Large Cruiser, but too small to be a full size Battleship.
 ## Monitor (BM)
 It's just your average cruiser with a giant turret attached to it.
 
+## Panzerschiff (CA)
+The three German ships of the Deutschland-class, Deutschland;Admiral Scheer and Admiral Graf Spee were reclassified to CA during WWII.
+
 ## Heavy/Armored Cruiser (CA)
 The type of ship you'd be looking for if you want to deal much damage.
 
