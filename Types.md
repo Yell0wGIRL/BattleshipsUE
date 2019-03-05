@@ -1,7 +1,7 @@
 # Info on Shiptypes
 
 ## Battleship (BB)
-A ship capable of dealing as much damage as possible, despite being slow, it can sustain much damage.
+A ship capable of dealing as much damage as possible, despite being slow, it can sustain lots of damage.
 
 ## Battlecruiser (BC)
 Too large to be a Large Cruiser, but too small to be a full size Battleship.
@@ -10,7 +10,7 @@ Too large to be a Large Cruiser, but too small to be a full size Battleship.
 It's just your average cruiser with a giant turret attached to it.
 
 ## Panzerschiff (CA)
-The three German ships of the Deutschland-class, Deutschland;Admiral Scheer and Admiral Graf Spee were reclassified to CA during WWII.
+The three German ships of the Deutschland-class, Deutschland;Admiral Scheer and Admiral Graf Spee were reclassified to CA.
 
 ## Heavy/Armored Cruiser (CA)
 The type of ship you'd be looking for if you want to deal much damage.
